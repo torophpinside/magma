@@ -1,0 +1,4 @@
+.vscode
+bin/magma
+dorks.db
+dorks_result.csv
